@@ -11,7 +11,8 @@ var stormpathMiddleware = stormpath.init(app, {
     application: 'https://api.stormpath.com/v1/applications/5XpbhlcDieJmD6gGlDFuln',
     secretKey: '6SVFRGOOSAXJQ3OGC0VWOFR4F',
     expandCustomData: true,
-    enableForgotPassword: true
+    enableForgotPassword: true,
+    enableConfirmPassword: true
 });
 
 app.use(stormpathMiddleware);

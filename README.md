@@ -12,6 +12,10 @@ node app.js
 
 http://localhost:3000/
 
+### Stormpath Config
+
+https://github.com/stormpath/stormpath-express/blob/master/lib/settings.js
+
 ### Reference links
 
 
