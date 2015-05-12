@@ -24,5 +24,6 @@ http://ramonvictor.github.io/protractor/slides/#/6
 
 
 ExpressJs is NodeJS Web Application Framework
+
 Express-Stormpath is an extension for Express.js that makes it incredibly simple to add users and user data to your application.
 
