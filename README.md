@@ -6,4 +6,4 @@ npm install
 
 ### Start the App
 
-npm app.js
+node app.js
